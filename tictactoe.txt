@@ -1,0 +1,27 @@
+Using OOP to create a game class
+
+Main gameplay:
+    ask users their name.
+    if name is computer then player 1 plays against computer
+
+    check whether or not there is a line of X's or O's or if the gameboard is full
+    if there is a line, player X or player O wins
+    if game board is full it's a draw.
+
+What does the game do?
+The game displays a 3 x 3 board that users can enter what space to occupy
+
+How does the user input their desired space?
+Can either enter coordinates (x, y) or the numbered space depending on how the board is created
+
+Can grid be drawn and spaces shown inside grid? grid = table?
+
+0 0 | 0 1 | 0 2
+1 0 | 1 1 | 1 2
+2 0 | 2 1 | 2 2 
+
+or 
+
+1 2 3
+4 5 6
+7 8 9
